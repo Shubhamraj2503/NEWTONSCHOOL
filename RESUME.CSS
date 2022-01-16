@@ -1,0 +1,85 @@
+.main-content{
+    display:grid;
+    grid-template-columns:300px 700px;
+    
+
+
+}
+
+.left-section{
+    background-color: aquamarine;
+
+}
+.left-content{
+    padding:1rem;
+
+}
+.profile-details{
+    
+
+}
+.profile-image{
+    display:block;
+    margin:auto;
+    border:5px solid white;
+    border-radius:30%;
+    width:60%;
+    
+
+
+}
+.name{
+    font-size:1.2rem;
+    font-weight:700;
+    text-align:center;
+    letter-spacing:0.02px;
+    padding:0.8rem;
+
+}
+.designation{
+    font-size:1rem;
+    text-align: center;
+    padding-bottom:0.5rem;
+
+}
+.description{
+    font-size: 0.75rem;
+    text-align: center;
+    padding:1rem;
+
+
+}
+.contact.item{
+
+}
+.right-section{
+    background-color: blue;
+
+}
+.right-main-content{
+
+}
+.right-title{
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 0.5rem;
+    letter-spacing: 1px;;
+
+}
+.skills{
+    font-size: 0.75rem;
+    text-align: center;
+    padding:1rem 0.5rem;
+
+}
+.skill-name{
+    font-size: 0.65rem;
+    font-weight: 0.65rem;
+    text-align: left;
+    padding-bottom:0.5rem;;
+
+}
+.progress-bar{
+    border:1px solid white;
+    height:4px;
+}

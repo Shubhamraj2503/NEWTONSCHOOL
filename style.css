@@ -1,0 +1,37 @@
+.image-rect{
+    justify-content: center;
+
+}
+.title-rect{
+    display:flex;
+    flex-direction:column;
+
+}
+.list-rect{
+    display:flex;
+    flex-direction:column;
+
+}
+.link-rect{
+    display:flex;
+    flex-direction:row;
+    padding:8px;
+
+}
+.largest-rect{
+    display:flex;
+    flex-direction: column;
+    width:300px;
+    border:2px solid green;
+}  
+hr{
+    background-color: blue;
+}
+.list-items{
+    border-bottom:1px solid red;
+    padding:8px;
+}
+.image{
+    width:150x;
+    height:150px;
+}
